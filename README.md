@@ -28,23 +28,26 @@ If you want to have a look at the tutorial in a talk format before trying (about
 1. [GoWayFest 3.0](https://youtu.be/0qvW4kIlS8I), Minsk, Belarus
 1. [GothamGo 2019](https://youtu.be/GH0DlCKTppE), New York City, NY, USA
 
-### Contributing
+### 参与贡献
 
-This project is open source under the MIT license, which means you are basically free to do whatever you want with it, just give me the proper credits. :)
+这个项目使用 MIT 开源协议进行开源，这意味着你基本上可以对它为所欲为，只需要保留我适当的名誉。：）
 
-If you want to contribute just raise an issue and/or submit a pull request.
+如果你想要参与贡献，只需要提个 issue 或者 提交个 pull request。
 
-If you are looking for inspiration you may browse the open issues or have a look at the [TODO](TODO.md) list. 
+如果你不知道该为这个项目写些什么，你可以看看还未关闭的 issue
+或者看看[待办事项](TODO.md)。
 
-Everything on the TODO list should be planned as a new step on the tutorial unless otherwise noted.
+待办事项中的任何内容都为计划的开发步骤，除非另有说明。
 
-### License
+### 协议
 
-See [LICENSE](LICENSE).
+请参阅 [协议](LICENSE).
 
-### Contacting the Author
+### 联系作者
 
-If you have any questions, please reach out to me at [daniela.petruzalek@gmail.com](mailto:daniela.petruzalek@gmail.com). I'm also on Twitter as [@danicat83](https://twitter.com/danicat83).
+如果你有任何问题，请通过
+[daniela.petruzalek@gmail.com](mailto:daniela.petruzalek@gmail.com) 联系我。我的
+Twitter 用户名也是 [@danicat83](https://twitter.com/danicat83)。
 
 ## Getting Started
 
