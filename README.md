@@ -49,34 +49,38 @@ If you want to have a look at the tutorial in a talk format before trying (about
 [daniela.petruzalek@gmail.com](mailto:daniela.petruzalek@gmail.com) 联系我。我的
 Twitter 用户名也是 [@danicat83](https://twitter.com/danicat83)。
 
-## Getting Started
+## 快速上手
 
-### Pre-requisites
+### 先决条件
 
-It's recommended to have:
-- Basic understanding on how programming languages work, as we won't be covering the basics
-- Basic terminal knowledge (know how to use command line applications)
+你最好：
+- 对程序运行方式有个基本的了解，我们不会介绍这些基础。
+- 对终端有个大概的了解（知道怎样使用命令行应用）
 
-Of course, if you don't have the above, but is a curious spirit and want to try anyway, please feel free to do so.
+当然，如果你不具有上述条件，但是具有好奇心，并且想去尝试，请放开做。
 
-### Compatibility Warning!!!
+### 兼容警告！！！
 
-This tutorial has been tested on both **Linux** and **Mac OS X** environments. For Windows environments you _may_ need to install a terminal emulator, like [Git BASH](https://gitforwindows.org/).
+本教程已经在 **Linux** 和 **Mac OS X** 环境下进行了测试。对于 Windows
+环境您_也许_需要安装一个终端模拟器，比如 [Git BASH](https://gitforwindows.org/)
 
-Please beware that since this code relies on the terminal to render the game it can produce different results for different configurations.
+译注：天朝大陆用户可以从[华为镜像](https://mirrors.huaweicloud.com/git-for-windows/)下载 Git BASH。
 
-If you have an issue feel free to raise it so we can find a proper solution, naming both your OS and terminal names and versions.
+请注意，这些代码依赖终端来渲染游戏，这会在不同的配置下呈现不同的结果。
 
-**Note:** It is a known issue that the terminal window on VS Code doesn't render the game correctly at this moment.
+如果你有任何问题，请随时提 issue，以便让我们找到合适的解决方案，同时附上你的操作系统和终端名称和版本。
 
+**注意：** VS Code 的终端目前不能正确地渲染游戏，这是个已知问题。
 
-### Setup
+### 起步
 
-In order to start, make sure you have Go installed in your system.
+为了起步，请确保你已安装了 Go。
 
-If you don't, please follow the instructions in [golang.org](https://golang.org)
+如果你没有，请参照 [golang.org](https://golang.org) 的说明安装。
 
-### How to use this tutorial
+译注：天朝大陆用户可以使用 Go 语言中文网搭建的[Go 官网镜像](https://docs.studygolang.com/)。
+
+### 如何使用本教程
 
 In every step, including step 0 (this one), we will describe the task in the README.md file followed by the code that does it and an explanation of how it works.
 
