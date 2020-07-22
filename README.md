@@ -1,22 +1,23 @@
 # Pac Go
 
-A Pac Man clone written in Go (with emojis!)
+一个用 Go 写的吃豆人游戏的克隆（用 emoji！）
 
 ![screenshot](./screenshot.jpg)
 
-## Introduction
+## 介绍
 
-Welcome to Pac Go! This project is a tutorial to introduce people to the [Go programming language](https://golang.org).
+这个项目是一个向人们介绍[Go 编程语言](https://golang.org)的教程。
 
-### Why a new tutorial?
+### 为什么要有一个新的教程？
 
-We have a lot of great tutorials out there, but the whole idea about this tutorial is to make something different and fun while learning Go. Yes, we need to know about APIs and CRUDs on a daily basis, but while tackling something new, why not making a game instead?
+我们有许多其他不错的教程，但是这个教程的主要目的是有趣且不同地学习
+Go。是的，我们需要天天了解 API 和 CRUD，但当我们应对新的东西时，为什么不制作一个游戏呢？
 
-Go is one of the languages that is known for making programming fun again, and what could be more fun than writing a game? Interested? Great, let's move on!
+Go 是再次使编程变得有趣的语言之一，而且什么能比编写一个游戏更有趣？兴趣？很好，让我们开始吧！
 
-We will be writing a Pac Man clone for the terminal. While writing a game you are exposed to several interesting requirements that make a very good ground for exploring many features of the language, including input, output, functions, pointers, concurrency and a bit of math.
+我们将编写一个终端上的 Pac Man 游戏克隆。在编写游戏时，你会遇到一些能够为探索这个语言的功能奠定基础、有趣的程序需求，包括输入、输出、函数、指针、并发以及些许数学知识。
 
-You also learn a bit more about the terminal and its magical escape sequences.
+你还将学到一些关于终端和神奇的转义的更多知识。
 
 ### Conference Talks
 
